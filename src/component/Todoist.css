@@ -1,0 +1,14 @@
+.todoist-container {
+	margin: 10rem auto;
+}
+
+.todo-lists {
+	list-style-position: inside;
+}
+.todo-list-item {
+	list-style: none;
+}
+
+.action-btn {
+	margin: 0px 5px;
+}
